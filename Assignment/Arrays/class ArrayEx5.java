@@ -1,0 +1,4 @@
+class ArrayEx5{
+	
+	
+}

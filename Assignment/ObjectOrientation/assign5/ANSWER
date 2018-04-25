@@ -1,0 +1,17 @@
+1a)output:
+Parent
+Derived 
+Derived
+
+2a)output
+x = 2, y = 4
+
+3)output:
+x = 5
+
+4)output:
+compile error 
+override is not happenning
+
+5)output:
+In String

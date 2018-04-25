@@ -1,0 +1,3 @@
+// in static inner class we can diretly create object for inner without creating obect for outer classs
+example 
+outer.inner i = new outer.inner()
